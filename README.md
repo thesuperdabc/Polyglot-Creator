@@ -1,7 +1,9 @@
-##Poylgot Creator
+## Poylgot Creator
 
 ```bash
 pip install python-chess
+
+'''bash
 python create_polyglot.py -u
  
 
