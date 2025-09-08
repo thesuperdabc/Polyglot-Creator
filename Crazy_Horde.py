@@ -225,4 +225,4 @@ def build_book_file(pgnpath, bookpath):
     pgn.close()
 
 if __name__ == "__main__":
-    build_book_file("crazy.pgn", "crazy.bin")
+    build_book_file("ur.pgn", "ur.bin")
